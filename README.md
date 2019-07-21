@@ -35,7 +35,7 @@
     00:10
 
 
-+ The Angular Frontend - Understanding the Basics 19 lectures 01:53:52
++ <b>The Angular Frontend - Understanding the Basics 19 lectures 01:53:52</b>
   - Module Introduction
     01:40
   - Understanding the Folder Structure
@@ -74,7 +74,7 @@
     03:51
   - Section Resources
     00:07
-+ Adding NodeJS to our Project -  12 lectures 01:03:29
++ <b>Adding NodeJS to our Project -  12 lectures 01:03:29</b>
   - Module Introduction
     02:03
   - Connecting Node & Angular - Theory
@@ -99,7 +99,7 @@
     05:07
   - Section Resources
     00:05
-+ Working with MongoDB  - 17 lectures 01:05:24
++ <b>Working with MongoDB  - 17 lectures 01:05:24</b>
   - Module Introduction
     01:04
   - What is MongoDB?
@@ -134,7 +134,7 @@
     07:07
   - Section Resources
     00:03
-+ Enhancing the App  - 11 lectures 01:04:23
++ <b>Enhancing the App  - 11 lectures 01:04:23</b>
   - Module Introduction
     01:11
   - Adding Routing
@@ -157,7 +157,7 @@
     09:05
   - Section Resources
     00:01
-+ Adding Image Uploads to our App  - 15 lectures 01:29:10
++ <b>Adding Image Uploads to our App  - 15 lectures 01:29:10</b>
   - Module Introduction
     00:44
   - Adding the File Input Button
@@ -188,7 +188,7 @@
     00:54
   - Section Resources
     00:03
-+ Adding Pagination -  7 lectures 32:54
++ <b>Adding Pagination -  7 lectures 32:54</b>
   - Module Introduction
     01:04
   - Adding the Pagination Component
@@ -203,7 +203,7 @@
     04:48
   - Section Resources
     00:03
-+ Adding User Authentication  - 20 lectures 02:09:02
++ <b>Adding User Authentication  - 20 lectures 02:09:02</b>
   - Module Introduction
     00:59
   - Adding the Login Input Fields
@@ -244,7 +244,7 @@
     15:54
   - Section Resources
     00:04
-+ Authorization -  7 lectures 32:36
++ <b>Authorization -  7 lectures 32:36</b>
   - Module Introduction
     01:09
   - Adding a Reference to the Model
@@ -259,7 +259,7 @@
     05:11
   - Section Resources
     00:03
-+ Handling Errors -  8 lectures 39:57
++ <b>Handling Errors -  8 lectures 39:57</b>
   - Module Introduction
     01:14
   - Testing Different Places to Handle Errors
@@ -276,7 +276,7 @@
     03:03
   - Section Resources
     00:01
-+ Optimizations  - 12 lectures 48:22 
++ <b>Optimizations  - 12 lectures 48:22 </b>
   - Module Introduction
     00:34
   - Using Controllers
@@ -301,7 +301,7 @@
     05:26
   - Section Resources
     00:03
-+ Deploying our App  - 7 lectures 38:10
++ <b>Deploying our App  - 7 lectures 38:10</b>
   - Module Introduction
     00:40
   - Deployment Options
@@ -316,7 +316,7 @@
     09:37
   - Section Resources
     00:01
-+ Course Roundup  - 2 lectures 02:31 Requirements
++ <b>Course Roundup  - 2 lectures 02:31 Requirements</b>
   - Course Roundup
     02:05
   - Bonus: More Content!
