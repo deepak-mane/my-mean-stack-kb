@@ -1,0 +1,25 @@
+# Course Content : Angular8 - The Complete Guide
+ 
+- Sec01: Getting Started [11] 37min
+- Sec02: The Basics [33] 1hr54min
+- Sec03: Course Project - The Basics [17] 1hr4min
+- Sec04: Debugging [3] 12min
+- Sec05: Components & Databinding Deep Dive [22] 1hr25min
+- Sec06: Course Project - Components & Databinding [6] 31min
+- Sec07: Directives Deep Dive [12] 47min
+- Sec08: Course Project - Directives [2] 7min
+- Sec09: Using Services & Dependency Injection [12] 44min 
+- Sec10: Course Project - Services & Dependency [8] 31min
+- Sec11: Changing Pages with Routings [31] 2hr18min
+- Sec12: Course Project - Routing [15] 46min
+- Sec13: Understanding Observables : [10] 45min
+- Sec14: Course Project - Observables [2] 6min
+- Sec15: Handling Forms in Angular Apps [36] 2hr2min
+- Sec16: Course Project - Forms [23] 1hr15min
+- Sec17: Using Pipes to Transform output [11] 37min
+- Sec18: Making Http Requests [28] 1hr41min
+- Sec19: Course Project - Http [8] 34min
+- Sec20: Authentication & Route Protection in Angular [23] 2hr21min
+- Sec21: Dynamic Components [10] 38min
+- Sec22: Angular Modules & Optimizing Angular Apps [21] 1hr31min
+- Sec23: Deploying an Angular App [5] 18min
