@@ -321,3 +321,10 @@
     02:05
   - Bonus: More Content!
     00:26
+
+
+
+
+
+![alt text](./images/website-color-palettes-3.jpg)
+![alt text](./images/website-color-palettes-24-1024x897.jpg)
