@@ -1,3 +1,3 @@
 # Architectuer of MEAN Stack
 
-Mean_TwoWays_of_Connecting_Node-Angular
+![alt text](./images/Mean_TwoWays_of_Connecting_Node-Angular.png)
