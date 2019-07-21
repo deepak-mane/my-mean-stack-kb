@@ -1,7 +1,7 @@
 # My Mean Stack
 
 ## Course content [Total 148 lectures] [Total Time Neeeded 12:39:03]
-+ Getting Started - 11 lectures 39:31
++ <b>Getting Started - 11 lectures 39:31</b>
   - Introduction
     Preview
     01:57
