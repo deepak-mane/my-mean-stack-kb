@@ -36,6 +36,44 @@
 
 
 + The Angular Frontend - Understanding the Basics 19 lectures 01:53:52
+  - Module Introduction
+    01:40
+    Understanding the Folder Structure
+    06:40
+    Understanding Angular Components
+    02:39
+    Adding our First Component
+    08:01
+    Listening to Events
+    03:43
+    Outputting Content
+    05:34
+    Getting User Input
+    06:03
+    Installing Angular Material
+    12:16
+    Adding a Toolbar
+    03:57
+    Outputting Posts
+    06:37
+    Diving Into Structural Directives
+    05:40
+    Creating Posts with Property & Event Binding
+    07:38
+    Creating a Post Model
+    04:35
+    Adding Forms
+    08:18
+    Getting Posts from Post-Create to Post-List
+    09:26
+    Calling GET Post
+    11:16
+    More About Observables
+    05:51
+    Working on our Form
+    03:51
+    Section Resources
+    00:07
 + Adding NodeJS to our Project -  12 lectures 01:03:29
 + Working with MongoDB  - 17 lectures 01:05:24
 + Enhancing the App  - 11 lectures 01:04:23
