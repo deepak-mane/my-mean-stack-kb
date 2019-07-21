@@ -1,5 +1,5 @@
 # My Mean Stack
-
+![alt text](./images/Angular_MEAN-The_Big_Picture.png)
 ## Course content [Total 148 lectures] [Total Time Neeeded 12:39:03]
 + <b>Getting Started - 11 lectures 39:31</b>
   - Introduction
