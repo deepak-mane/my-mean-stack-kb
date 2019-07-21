@@ -5,33 +5,33 @@
   - Introduction
     Preview
     01:57
-    What is MEAN?
+  - What is MEAN?
     Preview
     10:35
-    What is a Single Page Application (SPA)?
+  - What is a Single Page Application (SPA)?
     Preview
     02:08
-    How Does the MEAN Stack Work?
+  - How Does the MEAN Stack Work?
     Preview
     02:58
-    MUST READ: Angular CLI - Latest Version
+  - MUST READ: Angular CLI - Latest Version
     00:18
-    Installing Node & the Angular CLI
+  - Installing Node & the Angular CLI
     Preview
     07:50
-    Installing our IDE
+  - Installing our IDE
     Preview
     03:13
-    Exploring the Project Structure
+  - Exploring the Project Structure
     Preview
     04:02
-    Course Outline
+  - Course Outline
     Preview
     03:27
-    How To Get The Most Out Of This Course
+  - How To Get The Most Out Of This Course
     Preview
     02:53
-    Section Resources
+  - Section Resources
     00:10
 
 
