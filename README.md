@@ -324,7 +324,12 @@
 
 
 
-
+### Reference Additional Material
+- [Learn everything about Angular](https://academind.com/learn/angular)
+- [Angular Material Tutorial](https://academind.com/learn/angular/angular-material-a-thorough-guide/)
+- [Angular Material Docs](https://material.angular.io/)
+- [Reference vs Primitive Types in JS](https://academind.com/learn/javascript/reference-vs-primitive-values/)
+- [RxJS Tutorial](https://academind.com/learn/javascript/understanding-rxjs/)
 
 ![alt text](./images/website-color-palettes-3.jpg)
 ![alt text](./images/website-color-palettes-24-1024x897.jpg)
