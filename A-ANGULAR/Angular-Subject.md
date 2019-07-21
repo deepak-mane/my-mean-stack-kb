@@ -170,4 +170,4 @@ When you're using at output. <b>So if you're using in a component if you're usin
  
 You're not using subject there because the subject is not suitable for that. There you need the angular even emitter. You only use subjects to communicate across components through services so through a mechanism where you in the end subscribe to somewhere like here in the app component. If you're not subscribing to any Vandermeer then it probably is an output. If you do plan to subscribe manually then it is a subject.
 
-### END
+# *
