@@ -5,3 +5,4 @@
 ![alt text](./images/Mean_TwoWays_of_Connecting_Node-Angular.png)
 
 ### 2. REST API
+![alt text](./images/MEAN_RESTful_API.png)
