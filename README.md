@@ -330,6 +330,7 @@
 - [Angular Material Docs](https://material.angular.io/)
 - [Reference vs Primitive Types in JS](https://academind.com/learn/javascript/reference-vs-primitive-values/)
 - [RxJS Tutorial](https://academind.com/learn/javascript/understanding-rxjs/)
-
+- [Learn Node + Express from Scratch -for free!](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs)
+- [Creating a REST API with Node + Express (+ MongoDB)](https://academind.com/learn/node-js/building-a-restful-api-with/)
 ![alt text](./images/website-color-palettes-3.jpg)
 ![alt text](./images/website-color-palettes-24-1024x897.jpg)
