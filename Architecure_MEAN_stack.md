@@ -6,3 +6,4 @@
 
 ### 2. REST API
 ![alt text](./images/MEAN_RESTful_API.png)
+![alt text](./images/MEAN_RESTful_API2.png)
