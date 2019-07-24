@@ -13,8 +13,10 @@ MSAs have limited service taxonomy. The architecture consists of two service typ
 
 Key Differences Between SOA and MSA
 
+![alt text](./images/SOA-architecture-vs-microservices.jpg)
+![alt text](./images/coordination-1024x440.jpg)
+![alt text](./images/Minimal-coordination.jpg)
 
- 
 
 SOA	MSA
 Built on the idea of a “share-as-much-as-possible” architecture approach	Built on the idea of “share-as-little-as-possible” architecture approach
@@ -47,3 +49,6 @@ If you are developing an application, then MSA gives you greater control as a de
 Also, in the early stages of your business, you might find that MSA is a good choice. As the business grows, you may need capabilities such as complex request transformation and heterogeneous systems integration. In such situations, you are likely to turn to SOA pattern to replace MSA.
 
 Both SOA and MSA are the same set of standards used at different layers of an enterprise. The existence of MSA comes down to the success of SOA pattern. Hence, MSA pattern is a subset of SOA. Here the main focus is on the runtime autonomy of each service.
+
+
+![alt text](./images/SOA-architecture-vs-microservices.png)
