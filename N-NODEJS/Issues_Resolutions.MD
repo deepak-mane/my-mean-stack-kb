@@ -1,6 +1,6 @@
 # Issues - Resolutions NPM
 
-### Issue -  error code UNABLE_TO_GET_ISSUER_CERT_LOCALLY
+### [1.] Issue -  error code UNABLE_TO_GET_ISSUER_CERT_LOCALLY
 
 ```
 -- error log
